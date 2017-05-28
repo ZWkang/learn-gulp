@@ -1,0 +1,1 @@
+{"version":3,"sources":["asd.css"],"names":[],"mappings":"AAAA,EACI,WAAA,IACA,QAAA,YAAA,QAAA,YAAA,QAAA","file":"asd.css","sourcesContent":["p{\r\n    background:red;\r\n    display: flex;\r\n}"]}

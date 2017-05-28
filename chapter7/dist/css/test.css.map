@@ -1,0 +1,1 @@
+{"version":3,"sources":["test.css"],"names":[],"mappings":"AAAA,EACI,gBAAiB,KACjB,MAAO,IACP,iBAAkB","file":"test.css","sourcesContent":["a{\r\n    text-decoration: none;\r\n    color: red;\r\n    background-color: red;\r\n}"]}
